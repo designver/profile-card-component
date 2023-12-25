@@ -13,4 +13,4 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/designver)
+- Frontend Mentor - [@designver](https://www.frontendmentor.io/profile/designver)
